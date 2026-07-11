@@ -52,6 +52,6 @@
 
 **Agentic AI • LLM Evaluation • Distributed Systems • ML Infrastructure • High-Performance Backend Engineering**
 
-## ✍️ Random Dev Quote
+### 💭 Philosophy
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *Building software that solves real-world problems, one system at a time.*
