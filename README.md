@@ -4,7 +4,7 @@
 
 💡 Building production-ready AI systems, scalable backend services, and intelligent data pipelines.
 
-## 🚀 About Me
+## About Me ⭐️
 
 - 🎓 M.S. Computer Science @ San Diego State University ('26)
 - 💼 Ex-San Diego Zoo Wildlife Alliance | Ex-Syngenta
