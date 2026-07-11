@@ -87,13 +87,39 @@
 
 # 🚀 Featured Projects
 
-🔹 **Financial RAG Analyzer** – End-to-end Retrieval-Augmented Generation system for financial documents using local LLMs.
+### 📈 Financial RAG Analyzer
+**LLM • RAG • LangChain • ChromaDB • Streamlit**
 
-🔹 **GeoAI Landmark Retrieval** – Multimodal geospatial search combining vector embeddings, computer vision, and spatial indexing.
+An end-to-end Retrieval-Augmented Generation system that enables grounded question answering over financial reports using local LLMs, semantic search, and vector embeddings.
 
-🔹 **AI Document Cataloging** – LLM-powered metadata extraction and validation pipeline for government documents.
+🔗 https://github.com/SiddhiAmilkanthwar/financial-rag-analyzer
 
-🔹 **Revit AI Plugin** – Reusable MVVM architecture template for AI-enabled Revit development.
+---
+
+### 🗺️ GeoAI Landmark Retrieval & Route Understanding
+**Python • OpenCV • FastAPI • Vector Search • Spatial Indexing**
+
+A multimodal geospatial retrieval system combining computer vision, text embeddings, and spatial indexing (KD-Trees/R-Trees) for intelligent landmark search and route-aware question answering.
+
+🔗 https://github.com/SiddhiAmilkanthwar/OFI
+
+---
+
+### 🏗️ Revit AI Plugin
+**C# • .NET • WPF • MVVM**
+
+A reusable Revit add-in template demonstrating clean MVVM architecture, reusable ribbon components, and multi-version support for AI-enabled BIM application development.
+
+🔗 https://github.com/SiddhiAmilkanthwar/Revit-AI-Plugin
+
+---
+
+### 💰 Money Manager
+**React • JavaScript • Node.js**
+
+A personal finance management application for tracking expenses, managing budgets, and visualizing spending through an intuitive web interface.
+
+🔗 https://github.com/SiddhiAmilkanthwar/Money-Manager
 
 ---
 
@@ -111,16 +137,6 @@
 - ⚙️ Distributed Systems
 - ☁️ ML Infrastructure
 - 🚀 High-Performance Backend Engineering
-
----
-
-# 📊 GitHub Stats
-
-<!-- GitHub Stats Card -->
-
-<!-- Top Languages Card -->
-
-<!-- GitHub Streak -->
 
 ---
 
