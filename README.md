@@ -85,7 +85,7 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Repositories
 
 ### 📈 Financial RAG Analyzer
 **LLM • RAG • LangChain • ChromaDB • Streamlit**
